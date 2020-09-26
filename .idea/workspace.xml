@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CBlackJack" targetName="CBlackJack" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb124f45-4dab-423d-9296-145b027d5497" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1hVdTxHj4mKmt6YAenskjDcocuA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="whoami" />
+      <command value="code ." />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CBlackJack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CBlackJack" TARGET_NAME="CBlackJack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CBlackJack" RUN_TARGET_NAME="CBlackJack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb124f45-4dab-423d-9296-145b027d5497" name="Default Changelist" comment="" />
+      <created>1600100205369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600100205369</updated>
+      <workItem from="1600100207957" duration="306000" />
+      <workItem from="1600100583130" duration="599000" />
+      <workItem from="1600135465375" duration="1105000" />
+      <workItem from="1600137924359" duration="534000" />
+      <workItem from="1600138472299" duration="366000" />
+      <workItem from="1600138890424" duration="1218000" />
+      <workItem from="1600172775570" duration="1814000" />
+      <workItem from="1600187857640" duration="914000" />
+      <workItem from="1600191636791" duration="1025000" />
+      <workItem from="1600194960725" duration="2758000" />
+      <workItem from="1600205526768" duration="15188000" />
+      <workItem from="1600261203394" duration="10255000" />
+      <workItem from="1600300944090" duration="8769000" />
+      <workItem from="1600345944473" duration="5288000" />
+      <workItem from="1600366011482" duration="1332000" />
+      <workItem from="1600373157625" duration="1009000" />
+      <workItem from="1600390723445" duration="2535000" />
+      <workItem from="1600394936689" duration="2346000" />
+      <workItem from="1600397291331" duration="1667000" />
+      <workItem from="1600429414408" duration="174000" />
+      <workItem from="1600433555995" duration="5407000" />
+      <workItem from="1600469078244" duration="2521000" />
+      <workItem from="1600610087830" duration="365000" />
+      <workItem from="1600610475421" duration="822000" />
+      <workItem from="1600649066658" duration="5759000" />
+      <workItem from="1600695761958" duration="3960000" />
+      <workItem from="1600717655490" duration="734000" />
+      <workItem from="1600726677746" duration="200000" />
+      <workItem from="1600727054094" duration="10762000" />
+      <workItem from="1600777437851" duration="889000" />
+      <workItem from="1600778796248" duration="5946000" />
+      <workItem from="1600812538939" duration="1906000" />
+      <workItem from="1600825157089" duration="598000" />
+      <workItem from="1600828021640" duration="4140000" />
+      <workItem from="1600868979418" duration="1167000" />
+      <workItem from="1600911398333" duration="5346000" />
+      <workItem from="1600950081095" duration="1199000" />
+      <workItem from="1600954829405" duration="85000" />
+      <workItem from="1600969332867" duration="201000" />
+      <workItem from="1600969613746" duration="1371000" />
+      <workItem from="1601000453043" duration="2126000" />
+      <workItem from="1601085953707" duration="1026000" />
+      <workItem from="1601127926623" duration="751000" />
+      <workItem from="1601151543156" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="91" width="734" height="631" key="#Inspections" timestamp="1600658425368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="317" y="91" width="734" height="631" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1600658425368" />
+    <state x="284" y="77" key="#Plugins" timestamp="1600100514742">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="284" y="77" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1600100514742" />
+    <state x="690" y="58" width="662" height="696" key="#Vim_Emulation" timestamp="1600649428255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="690" y="58" width="662" height="696" key="#Vim_Emulation/0.0.1366.768@0.0.1366.768" timestamp="1600649428255" />
+    <state x="423" y="253" width="522" height="376" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600649375687">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="423" y="253" width="522" height="376" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1600649375687" />
+    <state x="558" y="92" width="241" height="622" key="#xdebugger.XInspectDialog" timestamp="1600829357409">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="558" y="92" width="241" height="622" key="#xdebugger.XInspectDialog/0.0.1366.768@0.0.1366.768" timestamp="1600829357409" />
+    <state x="447" y="43" key="#xdebugger.evaluate" timestamp="1600307441741">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="447" y="43" key="#xdebugger.evaluate/0.0.1366.768@0.0.1366.768" timestamp="1600307441741" />
+    <state width="444" height="618" key="DebuggerActiveHint" timestamp="1600393977979">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="444" height="618" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1600393977979" />
+    <state x="462" y="187" width="426" height="507" key="FileChooserDialogImpl" timestamp="1600354392044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="187" width="426" height="507" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600354392044" />
+    <state width="1294" height="331" key="GridCell.Tab.0.bottom" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.0.center" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.0.left" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.0.right" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.1.bottom" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.1.center" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.1.left" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state width="1294" height="331" key="GridCell.Tab.1.right" timestamp="1600916746087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1294" height="331" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1600916746087" />
+    <state x="272" y="179" key="IDE.errors.dialog" timestamp="1600274114902">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="272" y="179" key="IDE.errors.dialog/0.0.1366.768@0.0.1366.768" timestamp="1600274114902" />
+    <state x="241" y="44" width="902" height="724" key="SettingsEditor" timestamp="1600830771731">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="241" y="44" width="902" height="724" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1600830771731" />
+    <state x="690" y="36" width="662" height="718" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600312413526">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="690" y="36" width="662" height="718" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1600312413526" />
+    <state x="226" y="68" width="905" height="670" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600729342167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="226" y="68" width="905" height="670" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1600729342167" />
+    <state x="347" y="182" width="672" height="677" key="run.anything.popup" timestamp="1600698807788">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="182" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1600698807788" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601000502346">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1601000502346" />
+  </component>
+</project>
